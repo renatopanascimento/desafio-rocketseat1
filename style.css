@@ -6,7 +6,7 @@ body {
 
 #hero {
   width: 592px;
-  margin: 0 auto;
+  margin: 0 auto 72px;
 }
 
 #hero img {
@@ -44,13 +44,13 @@ p,
   width: 568px;
   height: 0;
 
-  margin: 0 auto;
+  margin: 0 auto 8px;
 
   border: 1px solid #eceff2;
 }
 
 #balls {
   position: fixed;
-  top: 0;
+  bottom: 0;
   right: 0;
 }
